@@ -1,4 +1,5 @@
 // Author: Elijah Hynson
+// Updated version of original code. Included 2 buttons that allows the user to switch between a circle and triangle pattern
 
 let canvasDiv;
 
